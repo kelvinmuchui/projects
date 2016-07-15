@@ -4,24 +4,25 @@
 ## My personal projects 
 
 
-# file_upload
+# social_media
 _________________
 
 **Repo Link**
 
- https://github.com/kelvinmuchui/file_upload.git
+ https://github.com/kelvinmuchui/socialmedia.git
 
 **Project Details**
- it is a project that users can upload any file 
+ it is a project that users can post and follow and unfollow others
 
 
 **Features**
 One-page website
 NavBar Links: 
- 1. Home 
- 2. About us
- 3. Events
- 4. Contact us
+ 1. posts
+ 2. login
+ 3. sign up
+ 4. follow
+ 5. unfollow
 
 **Repo Link**
 https://github.com/kelvinmuchui/u_turn.git
@@ -73,34 +74,36 @@ a blog where people can write and comment
 **Tools**
 Flask 
 mongo db
+python
 
 
 **Contributors**
  kelvin muchui
 
 
-# Library Management System
+# Headlines
 _________________
 
 **Repo Link**
 
-https://github.com/BethMwangi/library_systempython
+https://github.com/kelvinmuchui/headline
 
 **Project Details**
-A library system where a student can register/login and select books from the library catalogue 
+It a project that is able to find new headlines from BBC, FOX and CNN. It also predict weather. 
 
 
 **Features**
- Login Page
- Student portal/Welcome page
- Database Integration
+ Headlines
+ Currency
+ Weather
  
 
 
 **Tools**
   Flask
+  python 
+  RSS
 
-**Contributors**
- Beth Mwangi
- Kelvin Muchui
+
  
+
