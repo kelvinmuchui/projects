@@ -3,6 +3,25 @@
 
 ## My personal projects 
 
+# Personal website
+_________________
+
+**Repo Link**
+
+ https://github.com/kelvinmuchui/personalWebsite
+
+**Project Details**
+ Personal website that shows my work
+
+
+**Features**
+One-page website
+NavBar Links: 
+ 1. home
+ 2. about
+ 3. portfolio
+ 4. contact
+
 
 # social_media
 _________________
@@ -16,7 +35,6 @@ _________________
 
 
 **Features**
-One-page website
 NavBar Links: 
  1. posts
  2. login
